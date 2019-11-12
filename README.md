@@ -1,2 +1,3 @@
 # image-hosting-for-blog
-博客图床
+
+此项目主要用作自己的博客图床
